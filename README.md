@@ -1,2 +1,3 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=26&pause=1000&color=F7F7F7&width=435&lines=About+me%3A)](https://git.io/typing-svg)
-![LuaU](https://img.shields.io/badge/LuaU-%20-077FCA?style=plastic&labelColor=grey&logo=luau&logoColor=white)
+<img src="https://img.shields.io/badge/LuaU-%20-077FCA?style=plastic&labelColor=grey&logo=luau&logoColor=white" height="22">
+
