@@ -3,8 +3,6 @@
 
 > *Write a short intro about yourself here — your passions, what you code, or anything fun!*
 
--
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&size=26&pause=1000&vCenter=true&color=F7F7F7&width=435&lines=🔨Tools+and+IDEs%3A)](https://git.io/typing-svg)
 -
 - **Languages:**  
