@@ -4,9 +4,14 @@
 > *WIP💕*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sriracha&size=26&pause=1000&vCenter=true&color=F7F7F7&width=435&lines=🔨Tools+and+IDEs%3A)](https://git.io/typing-svg)
--
+
 - **Languages:**  
-  ![LuaU](https://img.shields.io/badge/LuaU-%20-077FCA?style=plastic&labelColor=grey&logo=luau&logoColor=077FCA) ![Lua](https://img.shields.io/badge/Lua-%20-0026BB?style=plastic&labelColor=grey&logo=lua&logoColor=0026BB) ![Python](https://img.shields.io/badge/Python-%20-91DD03?style=plastic&labelColor=grey&logo=python&logoColor=91DD03) ![Cpp](https://img.shields.io/badge/C++-%20-035BDD?style=plastic&labelColor=grey&logo=cplusplus&logoColor=035BDD)  
+  ![LuaU](https://img.shields.io/badge/LuaU-%20-077FCA?style=for-the-badge&logo=luau&logoColor=white) 
+  ![Lua](https://img.shields.io/badge/Lua-%20-0026BB?style=for-the-badge&logo=lua&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-%20-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![C++](https://img.shields.io/badge/C++-%20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 
 - **IDEs / Tools:**  
-  ![rstudio](https://img.shields.io/badge/Roblox_Studio-%20-077FCA?style=plastic&labelColor=grey&logo=robloxstudio&logoColor=077FCA) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-%20-7412AD?style=plastic&labelColor=grey) ![VSCode](https://img.shields.io/badge/VSCode-%20-1447C4?style=plastic&labelColor=grey)
+  ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-%20-FF0000?style=for-the-badge&logo=robloxstudio&logoColor=white) 
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-%20-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) 
+  ![VSCode](https://img.shields.io/badge/VSCode-%20-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
